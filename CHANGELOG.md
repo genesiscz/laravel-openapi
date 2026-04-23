@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.0](https://github.com/genesiscz/laravel-openapi/compare/v3.0.0...v3.1.0) (2026-04-23)
+
+
+### Features
+
+* add Laravel 13 + forward-compat 14 constraint ([81a9dd7](https://github.com/genesiscz/laravel-openapi/commit/81a9dd746a4c645bc7824dd01be84f2644ec2286))
+* add Laravel 13 + forward-compat 14 constraint ([72dab0a](https://github.com/genesiscz/laravel-openapi/commit/72dab0a45fa15b960db2a87e8dcfebd61b93e148))
+
 ## [2.1.2](https://github.com/Nova-Edge/laravel-openapi/compare/v2.1.1...v2.1.2) (2025-03-31)
 
 
